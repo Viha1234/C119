@@ -1,0 +1,15 @@
+body {
+    background: rgb(112, 87, 173);
+}
+h1 {
+font-style: italic;
+color: black;
+font-size: xx-large;
+}
+#result{
+    width: 350px;
+    height: 350px;
+}
+prediction {
+    margin-top:50px;
+}
